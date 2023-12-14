@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "email": "a@gmail.com",
+      "password": "$2a$10$tHunLTlzuMoSvOPKT6Ojm.A5cpL.2x2VYZPMAWX5IQ9HgvePTv0A2",
+      "date": 1701598045497,
+      "id": 1
+    }
+  ],
+  "notes": [
+    {
+      "authorId": "1",
+      "title": "note 1",
+      "text": ":)",
+      "date": 1701598125618,
+      "id": 1
+    },
+    {
+      "title": "note 2",
+      "text": ":( ",
+      "authorId": 1,
+      "date": 1701625501357,
+      "id": 2
+    }
+  ]
+}
